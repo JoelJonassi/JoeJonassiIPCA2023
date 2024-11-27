@@ -4,7 +4,6 @@ Welcome to the repository for my bachelor thesis project. This repository serves
 
 - **Thesis Document**: The full written report detailing the research, methodology, and results of the project  
 - **Presentation Slides**: The PowerPoint presentation used for the thesis defense, summarizing key findings and contributions  
-- **Technical Manuals**: Documentation providing an in-depth explanation of the project's technical aspects  
 - **Informational Manuals**: User-oriented guides for understanding and utilizing the developed solutions  
 
 ## Important Note  
